@@ -1,5 +1,5 @@
 # UE4-VisualAssist-Snippets
-A personal record of handy visual assist snippets
+A personal record of handy visual assist snippets for Unreal Engine 4.
 
 uebind
 --------
