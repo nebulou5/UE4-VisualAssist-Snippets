@@ -75,6 +75,7 @@ $end$
 
 uetick
 --------
+```
 void A$FILE_BASE$::Tick(float DeltaTime) {
   Super::Tick(DeltaTime);
   $end$
