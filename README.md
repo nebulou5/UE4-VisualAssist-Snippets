@@ -63,12 +63,12 @@ ueprintscreen
 --------
 ```
 if (GEngine) {
-		GEngine->AddOnScreenDebugMessage(
-		-1, 
-		15.0f, 
-		FColor::Yellow, 
-		FString::Printf(TEXT("$say$: %$f$"), $Output$)
-	);
+  GEngine->AddOnScreenDebugMessage(
+    -1, 
+    15.0f, 
+    FColor::Yellow, 
+    FString::Printf(TEXT("$say$: %$f$"), $Output$)
+  );
 }
 $end$
 ```
